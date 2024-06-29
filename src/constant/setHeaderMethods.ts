@@ -1,0 +1,15 @@
+export const setHeaderMethods = [
+  'get_member',
+  'search_member',
+  'get_member_bank_account',
+  'get_member_value_date',
+  'bin_inquiry',
+  'payment_query',
+  'get_report_approval',
+  'get_report_earning_product',
+  'get_report_earning_payment',
+  'get_payout_balance',
+  'get_balance_main',
+  'payout_query',
+  'get_installments',
+]

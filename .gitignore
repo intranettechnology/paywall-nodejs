@@ -1,0 +1,4 @@
+node_modules
+dist
+.npmrc
+__test__/prod.constants.ts
